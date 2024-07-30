@@ -1,0 +1,32 @@
+[
+    {
+        "instance_prompt":     "A <cute-cat> cat on the stairs",
+        "plain_prompt":        "A cat on the stairs",
+        "instance_data_path":    "./data/object/cat/imgs/0.jpg",
+        "weight": 1.0
+    },
+    {
+        "instance_prompt":     "A <cute-cat> cat on the stairs",
+        "plain_prompt":        "A cat on the stairs",
+        "instance_data_path":    "./data/object/cat/imgs/1.jpg",
+        "weight": 1.0
+    },
+    {
+        "instance_prompt":     "A <cute-cat> cat on the stairs",
+        "plain_prompt":        "A cat on the stairs",
+        "instance_data_path":    "./data/object/cat/imgs/2.jpg",
+        "weight": 1.0
+    },
+    {
+        "instance_prompt":     "A <cute-cat> cat on the stairs",
+        "plain_prompt":        "A cat on the stairs",
+        "instance_data_path":    "./data/object/cat/imgs/3.jpg",
+        "weight": 1.0
+    },
+    {
+        "instance_prompt":     "A <cute-cat> cat on the stairs",
+        "plain_prompt":        "A cat on the stairs",
+        "instance_data_path":    "./data/object/cat/imgs/4.jpg",
+        "weight": 1.0
+    }
+]
