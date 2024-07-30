@@ -5,7 +5,7 @@
 >**Description**: <br>
 >This is the official implementation of Generative Active Learning for Image Synthesis Personalization. Our code is built on diffusers.
 
-![](figures/fig1.png)
+![](figures/fig1.jpg)
 
 > **Generative-Active-Learning-for-Image-Synthesis-Personalization**<br>
 > Xulu Zhang<sup>1,2</sup>, Wengyu Zhang<sup>1</sup>, Xiaoyong Wei<sup>1</sup>, Jinlin Wu<sup>2,4</sup>, Zhaoxiang Zhang<sup>2,4</sup>, Zhen Lei<sup>2,4</sup>, Qing Li<sup>1</sup> <br>
