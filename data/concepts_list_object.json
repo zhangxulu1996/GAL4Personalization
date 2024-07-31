@@ -1,0 +1,62 @@
+[
+    {
+        "class_prompt":         "cat",
+        "placeholder":          "<cute-cat>",
+        "test_prompts":         "./data/test_prompts/cat.txt",
+        "caption":             ["a cat on the stairs"]
+    },
+    {
+        "class_prompt":         "dog",
+        "placeholder":          "<black-dog>",
+        "test_prompts":       "./data/test_prompts/dog.txt",
+        "caption":            ["a dog in room", "a dog on the grass", "a dog on the rock", "a dog on wooden stump"]
+    },
+    {
+        "class_prompt":         "table",
+        "placeholder":          "<brown-table>",
+        "test_prompts":       "./data/test_prompts/table.txt",
+        "caption":              ["brown table next to sofa in room"]
+    },
+    {
+        "class_prompt":         "flower",
+        "placeholder":          "<white-flower>",
+        "test_prompts":       "./data/test_prompts/flower.txt",
+        "caption":            ["flowers in the wild"]
+    },
+    {
+        "class_prompt":         "barn",
+        "placeholder":          "<brown-barn>",
+        "test_prompts":       "./data/test_prompts/barn.txt",
+        "caption":             ["a barn in open field with mountains in the background"]
+    },
+    {
+        "class_prompt":         "wooden_pot",
+        "placeholder":          "<wooden-pot>",
+        "test_prompts":       "./data/test_prompts/wooden_pot.txt",
+        "caption":              ["wooden pot on the table", "wooden pot next to the window"]
+    },
+    {
+        "class_prompt":         "cat_statue",
+        "placeholder":          "<cat-statue>",
+        "test_prompts":           "./data/test_prompts/cat_statue.txt",
+        "caption":         ["a cat statue on the table"]
+    },
+    {
+        "class_prompt":         "teapot",
+        "placeholder":          "<red-teapot>",
+        "test_prompts":       "./data/test_prompts/teapot.txt",
+        "caption":          ["a teapot on the table", "a teapot on wooden cabinet"]
+    },
+    {
+        "class_prompt":         "teddybear",
+        "placeholder":          "<teddy-bear>",
+        "test_prompts":       "./data/test_prompts/teddybear.txt",
+        "caption":           ["a teddy bear on the ground", "a teddy bear on the wood"]
+    },
+    {
+        "class_prompt":         "chair",
+        "placeholder":          "<blue-chair>",
+        "test_prompts":       "./data/test_prompts/chair.txt",
+        "caption":             ["blue chair in room"]
+    }
+]

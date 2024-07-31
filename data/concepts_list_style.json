@@ -1,0 +1,32 @@
+[
+    {
+        "class_prompt": "cat",
+        "instance_prompt":     "A cat in watercolor painting style",
+        "instance_data_path":    "../data/customization/reference_style/cat/original.jpg"
+    },
+    {
+        "class_prompt": "person",
+        "instance_prompt":     "A portrait of a person wearing a hat in oil painting style",
+        "instance_data_path":    "../data/customization/reference_style/person/original.jpg"
+    },
+    {
+        "class_prompt": "laptop",
+        "instance_prompt":     "A woman working on a laptop in flat cartoon illustration style",
+        "instance_data_path":    "../data/customization/reference_style/laptop/original.jpg"
+    },
+    {
+        "class_prompt": "watermelon",
+        "instance_prompt":     "Slices of watermelon and clouds in the background in 3d rendering style",
+        "instance_data_path":    "../data/customization/reference_style/watermelon/original.jpg"
+    },
+    {
+        "class_prompt": "3dflower",
+        "instance_prompt":     "A flower in melting golden 3d rendering style",
+        "instance_data_path":    "../data/customization/reference_style/3dflower/original.jpg"
+    },
+    {
+        "class_prompt": "face",
+        "instance_prompt":     "A Viking face with beard in wooden sculpture",
+        "instance_data_path":    "../data/customization/reference_style/face/original.jpg"
+    }
+]

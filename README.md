@@ -8,7 +8,7 @@
 ![](figures/fig1.jpg)
 
 > **Generative-Active-Learning-for-Image-Synthesis-Personalization**<br>
-> Xulu Zhang<sup>1,2</sup>, Wengyu Zhang<sup>1</sup>, Xiaoyong Wei<sup>1</sup>, Jinlin Wu<sup>2,4</sup>, Zhaoxiang Zhang<sup>2,4</sup>, Zhen Lei<sup>2,4</sup>, Qing Li<sup>1</sup> <br>
+> Xulu Zhang<sup>1,2</sup>, Wengyu Zhang<sup>1</sup>, Xiaoyong Wei<sup>1</sup>, Jinlin Wu<sup>2,4</sup>, Zhaoxiang Zhang<sup>2,3,4</sup>, Zhen Lei<sup>2,3,4</sup>, Qing Li<sup>1</sup> <br>
 > <sup>1</sup>Department of Computing, the Hong Kong Polytechnic University, <br><sup>2</sup>Center for Artificial Intelligence and Robotics, HKISI, CAS, <br><sup>3</sup>School of Artificial Intelligence, UCAS, <br><sup>4</sup>State Key Laboratory of Multimodal Artificial Intelligence Systems, CASIA
 
 >**Abstract**: <br>
