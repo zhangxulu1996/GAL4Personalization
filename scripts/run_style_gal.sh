@@ -1,8 +1,8 @@
 export MODEL_NAME="CompVis/stable-diffusion-v1-4"
 
 accelerate launch --main_process_port=29503 \
-  --gpu_ids=7 \
-  train_style_dreambooth_retrain.py \
+  --gpu_ids=0 \
+  train_style_gal_dreambooth.py \
   --pretrained_model_name_or_path=$MODEL_NAME  \
   --output_dir="./snapshot/GAL_style/cat/" \
   --instance_data_dir="./data/style/cat" \

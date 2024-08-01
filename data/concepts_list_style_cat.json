@@ -1,0 +1,7 @@
+[
+    {
+        "class_prompt": "cat",
+        "instance_prompt":     "A cat in watercolor painting style",
+        "instance_data_path":    "../data/customization/reference_style/cat/original.jpg"
+    }
+]

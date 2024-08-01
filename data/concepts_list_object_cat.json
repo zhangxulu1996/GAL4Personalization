@@ -1,0 +1,8 @@
+[
+    {
+        "class_prompt":         "cat",
+        "placeholder":          "<cute-cat>",
+        "test_prompts":         "./data/test_prompts/cat.txt",
+        "caption":             ["a cat on the stairs"]
+    }
+]

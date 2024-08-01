@@ -66,7 +66,7 @@ sh scripts/run_style_gal.sh
 ```
 
 ### Reproduce Results
-To reproduce the results in the paper, please refer to the [**reproduce**](reproduce.ipynb) notebook. It contains the necessary code and instructions.
+To reproduce the results in the paper, please refer to the [**reproduce_object**](reproduce_object.ipynb) and [**reproduce_style**](reproduce_style.ipynb) notebook. It contains the necessary code and instructions.
 
 ## Results
 The sample results obtained from our proposed method:
